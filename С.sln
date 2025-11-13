@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Операции дел�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Операции_деления", "Операции_деления\Операции_деления.vcxproj", "{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задания", "Задания\Задания.vcxproj", "{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -20,8 +22,17 @@ Global
 		{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF}.Release|Win32.Build.0 = Release|Win32
 		{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF}.Release|x64.ActiveCfg = Release|x64
 		{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF}.Release|x64.Build.0 = Release|x64
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Debug|Win32.Build.0 = Debug|Win32
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Debug|x64.ActiveCfg = Debug|x64
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Debug|x64.Build.0 = Debug|x64
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Release|Win32.ActiveCfg = Release|Win32
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Release|Win32.Build.0 = Release|Win32
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Release|x64.ActiveCfg = Release|x64
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF} = {3AE08644-4522-405B-9D9D-A922D5F422CF}
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17} = {3AE08644-4522-405B-9D9D-A922D5F422CF}
 	EndGlobalSection
 EndGlobal
