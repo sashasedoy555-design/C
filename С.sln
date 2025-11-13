@@ -4,7 +4,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Операции дел�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Операции_деления", "Операции_деления\Операции_деления.vcxproj", "{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Задания", "Задания\Задания.vcxproj", "{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Секунды", "Секунды\Секунды.vcxproj", "{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Условные конструкции", "3. Условные конструкции", "{7E44FF64-A0C3-4553-9760-9676F71BE730}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Задания", "Задания", "{2CBD91DA-AE14-42E7-9792-507A533418EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D0A59B72-CFF5-48D7-83A7-B775FDAA89FF} = {3AE08644-4522-405B-9D9D-A922D5F422CF}
-		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17} = {3AE08644-4522-405B-9D9D-A922D5F422CF}
+		{2CBD91DA-AE14-42E7-9792-507A533418EB} = {3AE08644-4522-405B-9D9D-A922D5F422CF}
+		{4FE0DD69-235C-4FA0-9EB6-53B706AF8E17} = {2CBD91DA-AE14-42E7-9792-507A533418EB}
 	EndGlobalSection
 EndGlobal
